@@ -12,11 +12,11 @@
 
 | The First Project on Figma! |  
 |---------------------|
-| ![](./image/Bella app.png) |
+| ![](./images/Bella app.png) |
 
 | Presentation version (iPhone 11) |
 |---------------------|
-|![](./image/app_presentation.gif) |
+|![](./images/app_presentation.gif) |
 
 
 
