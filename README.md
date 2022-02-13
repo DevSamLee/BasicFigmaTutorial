@@ -5,14 +5,14 @@
 
 <!-- CONTENTS -->
 ## Contents
-* Bella app.png (screenshot)
+* app_screenshot.png (screenshot)
 * app_presentation.gif (presentation)
 
 ## Overview
 
 | The First Project on Figma! |  
 |---------------------|
-| ![](./images/Bella app.png) |
+| ![](./images/app_screenshot.png) |
 
 | Presentation version (iPhone 11) |
 |---------------------|
