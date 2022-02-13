@@ -7,12 +7,18 @@
 ## Contents
 * app_screenshot.png (screenshot)
 * app_presentation.gif (presentation)
+* shopping_bag.svg (icon)
+* map.svg (icon)
 
 ## Overview
 
 | The First Project on Figma! |  
 |---------------------|
 | ![](./images/app_screenshot.png) |
+
+|     Map Icon   |    Shopping Bag Icon   |
+|--------------------|--------------------|
+|![](./images/map.svg) |![](./images/shopping_bag.svg) |
 
 | Presentation version (iPhone 11) |
 |---------------------|
