@@ -28,7 +28,7 @@
 ### Prototype of Neo Financial App - Sprint to Innovate
 | Prototype (iPhone 8) |
 |---------------------|
-|![](./images/neo app full.gif) |
+|![](./images/neo_app_full.gif) |
 
 | Prototype of Products (iPhone 8) |
 |---------------------|
@@ -36,7 +36,7 @@
 
 | Prototype of Neo Invest(iPhone 8) |
 |---------------------|
-|![](./images/neo-invest.gif) |
+|![](./images/neo-invest.png) |
 
 
 
