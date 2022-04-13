@@ -12,6 +12,7 @@
 
 ## Overview
 
+### BasicFigmaTutorial - LinkedIn Learning
 | The First Project on Figma! |  
 |---------------------|
 | ![](./images/app_screenshot.png) |
@@ -23,6 +24,19 @@
 | Presentation version (iPhone 11) |
 |---------------------|
 |![](./images/app_presentation.gif) |
+
+### Prototype of Neo Financial App - Sprint to Innovate
+| Prototype (iPhone 8) |
+|---------------------|
+|![](./images/neo app full.gif) |
+
+| Prototype of Products (iPhone 8) |
+|---------------------|
+|![](./images/circle.gif) |
+
+| Prototype of Neo Invest(iPhone 8) |
+|---------------------|
+|![](./images/neo-invest.gif) |
 
 
 
