@@ -30,6 +30,8 @@
 |---------------------|
 |![](./images/app_presentation.gif) |
 
+
+
 ### Prototype of Neo Financial App - Sprint to Innovate
 | Prototype (iPhone 8) |
 |---------------------|
