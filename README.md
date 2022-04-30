@@ -10,6 +10,11 @@
 * shopping_bag.svg (icon)
 * map.svg (icon)
 
+* neo_app_full.gif (prototype)
+* circle.gif (emphasize funtionalities)
+* neo-invest.png (investment screenshot)
+
+
 ## Overview
 
 ### BasicFigmaTutorial - LinkedIn Learning
